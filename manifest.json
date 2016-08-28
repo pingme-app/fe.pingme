@@ -1,0 +1,11 @@
+{
+  "name": "pingme",
+  "short_name": "pingme",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#fff",
+  "description": "Social Networking App",
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
